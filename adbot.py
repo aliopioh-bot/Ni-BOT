@@ -383,6 +383,10 @@ class AdvancedBot(BaseBot):
             "292": "emote-flexing",
             "293": "emote-collab-tea-left",
             "294": "emote-scuba-dance",
+            "295": "emote-modelwalk",
+            "296": "emote-meditate",
+            "297": "emote-threadexchange-posing",
+            "298": "emote-threadexchange-posing",
             "۱": "idle_zombie",
             "۲": "idle_layingdown2",
             "۳": "idle_layingdown",
@@ -676,6 +680,11 @@ class AdvancedBot(BaseBot):
             "۲۹۱": "idle-laying-phone-talking",
             "۲۹۲": "emote-flexing",
             "۲۹۳": "emote-collab-tea-left",
+            "۲۹۴": "emote-scuba-dance",
+            "۲۹۵": "emote-modelwalk",
+            "۲۹۶": "emote-meditate",
+            "۲۹۷": "emote-threadexchange-posing",
+            "۲۹۸": "emote-threadexchange-posing",
             "zombie": "idle_zombie",
             "relaxed": "idle_layingdown2",
             "attentive": "idle_layingdown",
@@ -943,7 +952,12 @@ class AdvancedBot(BaseBot):
             "phonecamera": "idle-phone-camera",
             "yapattack": "idle-laying-phone-talking",
             "flexinghard": "emote-flexing",
-            "spillingthetha": "emote-collab-tea-left"
+            "spillingthetha": "emote-collab-tea-left",
+            "scubadance": "emote-scuba-dance",
+            "modelstrut": "emote-modelwalk",
+            "zenmode": "emote-meditate",
+            "silentlyjudging": "emote-threadexchange-posing",
+            "divamoment": "emote-threadexchange-posing"
         }
 
         self.emote_durations = {
