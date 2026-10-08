@@ -1169,7 +1169,8 @@ class AdvancedBot(BaseBot):
             "dance-floss": 11.0,
             "emote-dead": 6.0,
             "emote-alice-shrink": 15.0,
-            "emote-threadexchange-star": 15.0
+            "emote-threadexchange-star": 15.0,
+            "sit-relaxed": 15.0
         }
 
     def is_host(self, username: str) -> bool:
