@@ -384,7 +384,7 @@ class AdvancedBot(BaseBot):
             "293": "emote-collab-tea-left",
             "294": "emote-scuba-dance",
             "295": "emote-modelwalk",
-            "296": "emote-meditate",
+            "296": "emote-meditate-idle",
             "297": "emote-threadexchange-posing",
             "298": "emote-threadexchange-posing",
             "۱": "idle_zombie",
@@ -682,7 +682,7 @@ class AdvancedBot(BaseBot):
             "۲۹۳": "emote-collab-tea-left",
             "۲۹۴": "emote-scuba-dance",
             "۲۹۵": "emote-modelwalk",
-            "۲۹۶": "emote-meditate",
+            "۲۹۶": "emote-meditate-idle",
             "۲۹۷": "emote-threadexchange-posing",
             "۲۹۸": "emote-threadexchange-posing",
             "zombie": "idle_zombie",
@@ -955,7 +955,7 @@ class AdvancedBot(BaseBot):
             "spillingthetha": "emote-collab-tea-left",
             "scubadance": "emote-scuba-dance",
             "modelstrut": "emote-modelwalk",
-            "zenmode": "emote-meditate",
+            "zenmode": "emote-meditate-idle",
             "silentlyjudging": "emote-threadexchange-posing",
             "divamoment": "emote-threadexchange-posing"
         }
