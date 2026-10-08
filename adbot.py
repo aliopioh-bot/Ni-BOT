@@ -382,6 +382,7 @@ class AdvancedBot(BaseBot):
             "291": "idle-laying-phone-talking",
             "292": "emote-flexing",
             "293": "emote-collab-tea-left",
+            "294": "emote-scuba-dance",
             "۱": "idle_zombie",
             "۲": "idle_layingdown2",
             "۳": "idle_layingdown",
