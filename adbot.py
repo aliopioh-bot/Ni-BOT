@@ -672,8 +672,8 @@ class AdvancedBot(BaseBot):
             "۲۸۸": "emote-heartshape",
             "۲۸۹": "emote-snowball",
             "۲۹۰": "idle-phone-camera",
-            "۲۹۱": "idle-laying-phone-talking"
-            "۲۹۲": "emote-flexing"
+            "۲۹۱": "idle-laying-phone-talking",
+            "۲۹۲": "emote-flexing",
             "۲۹۳": "emote-collab-tea-left",
             "zombie": "idle_zombie",
             "relaxed": "idle_layingdown2",
