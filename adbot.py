@@ -1160,7 +1160,6 @@ class AdvancedBot(BaseBot):
             "emote-creepycute": 15.0,
             "emote-frustrated": 15.0,
             "emote-pose10": 15.0,
-            "sit-relaxed": 15.0,
             "emote-stargaze": 15.0,
             "emote-slap": 15.0,
             "emote-boxer": 15.0,
